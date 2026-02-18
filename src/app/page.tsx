@@ -31,7 +31,7 @@ const personInfo = {
     steam: "https://steamcommunity.com/profiles/76561197961982796",
     discord: "https://discord.gg/CDD223E3W3",
     twitter: "https://x.com/METALHEAD666",
-    instagram: "https://instagram.com/jecvky"
+    instagram: "https://instagram.com/ya6bu"
   }
 };
 
