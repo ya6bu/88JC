@@ -22,7 +22,7 @@ const CONFIG = {
 
 const personInfo = {
   name: "Yarbu",
-  username: "jexq",
+  username: "Yarbu",
   profession: "Tech Enthusiast",
   discordId: "1399010906763165857",
   socialLinks: {
