@@ -21,10 +21,10 @@ const CONFIG = {
 };
 
 const personInfo = {
-  name: "Kydo",
+  name: "Yarbu",
   username: "jexq",
   profession: "Tech Enthusiast",
-  discordId: "320607798234710018",
+  discordId: "1399010906763165857",
   socialLinks: {
     mail: "mailto:chan@jecky.id",
     github: "https://github.com/88JC",
