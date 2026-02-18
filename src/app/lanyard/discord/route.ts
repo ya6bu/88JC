@@ -33,7 +33,7 @@ interface LanyardData {
 
 export async function GET() {
   try {
-    const DiscordIds = '320607798234710018';
+    const DiscordIds = '1399010906763165857';
     const response = await fetch(`https://api.lanyard.rest/v1/users/${DiscordIds}`);
     const data = await response.json() as LanyardData;
     
